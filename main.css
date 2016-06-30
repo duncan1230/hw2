@@ -1,0 +1,44 @@
+td[colspan="4"] {
+    color: red;
+}
+
+.span {
+    color: #ff0000;
+    font-weight: 900;
+    font-size: 13px
+}
+
+table {
+    background: #FFFFCC;
+}
+
+.r1 {
+    font-weight: 800;
+    font-size: 17px
+}
+
+.circle2 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 23px;
+    font-family: Arial;
+    font-weight: 900;
+    color: #000;
+    line-height: 50px;
+    text-align: center;
+    background: #ff0a00;
+}
+
+.circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 23px;
+    font-family: Arial;
+    font-weight: 900;
+    color: #000;
+    line-height: 50px;
+    text-align: center;
+    background: #ffce00;
+}
